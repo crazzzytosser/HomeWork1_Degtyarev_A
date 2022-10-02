@@ -12,7 +12,7 @@ int n2 = Convert.ToInt32(Console.ReadLine());
 
 if (n1 == n2)
 {
-    Console.Write($"n1 = n2");
+    Console.Write($"{n1} = {n2}");
 }
 else
 {
